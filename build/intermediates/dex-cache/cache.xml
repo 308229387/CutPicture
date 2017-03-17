@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/songyongmeng/Desktop/ThirdCameraDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41b40fac9de55f9e912374dc068cdbefc35da458">
+        <dex dex="/Users/songyongmeng/Desktop/ThirdCameraDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d3e13ef371f9912bd40de6d371216bde7d221fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songyongmeng/Desktop/ThirdCameraDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/songyongmeng/Desktop/ThirdCameraDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_888935a2bf5d3e774cc1d0cc2842bd35b147e31d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songyongmeng/Desktop/ThirdCameraDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84c4b98eb5515681a2178b1d79e085480edc1d24">
+        <dex dex="/Users/songyongmeng/Desktop/ThirdCameraDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5380635fd2a22a8ba8d70d8f685d331033895791/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songyongmeng/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/songyongmeng/Desktop/ThirdCameraDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0e118554da3577a5f8e68f3b96aa03014852dbcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songyongmeng/Desktop/ThirdCameraDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/songyongmeng/Desktop/ThirdCameraDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_ba571cf831dcbb0bb8e4b3dbec0fc29d91395f75/classes.dex" />
+    </item>
+
+</items>
